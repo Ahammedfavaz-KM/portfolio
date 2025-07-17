@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(27, 27, 27);
+    text-decoration: none;
+}
+.navbar-list{
+
+display: flex;
+flex-direction: row;
+justify-content: center; 
+gap: 30px;
+font-size: 20px;
+font-family: 'Courier New', Courier, monospace;
+color: aliceblue;
+list-style: none;
+
+}
+
+.navbar{
+
+}
